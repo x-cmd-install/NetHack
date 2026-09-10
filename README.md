@@ -20,32 +20,31 @@ x install NetHack
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-05-02T17:17:36Z
+- **Last commit**: 2026-09-10
 
 ## Popularity
 
-- **Stars**: 3,901 · **Forks**: 618 · **Open issues**: 748 · **Contributors**: 75
+- **Stars**: 3,902 · **Forks**: 618 · **Open issues**: 748 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 254 · **Open PRs**: 48 · **Closed issues**: 649 · **Open issues**: 99 · **Commits**: 19261
+- **Releases**: 8 · **Merged PRs**: 254 · **Open PRs**: 48 · **Closed issues**: 650 · **Open issues**: 98 · **Commits**: 19264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 5 | 7 | 2 | 4 | 78 |
-| 90d | 2026-06-12 | 0 | 47 | 15 | 12 | 14 | 208 |
-| 360d | 2025-09-15 | 1 | 88 | 21 | 67 | 23 | 1152 |
+| 30d | 2026-08-11 | 0 | 5 | 7 | 3 | 3 | 81 |
+| 90d | 2026-06-12 | 0 | 47 | 15 | 13 | 13 | 211 |
+| 360d | 2025-09-15 | 1 | 88 | 21 | 68 | 22 | 1155 |
 
 ## Code size
 
-Total: **371,680** lines of code across **694** files in the top 5 languages.
+Total: **371,682** lines of code across **694** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 292,834 | 52,180 | 35,655 | 305 |
+| C | 292,836 | 52,182 | 35,655 | 305 |
 | CHeader | 33,172 | 8,099 | 4,274 | 219 |
 | Lua | 15,813 | 2,372 | 1,442 | 141 |
 | Cpp | 13,991 | 2,783 | 1,947 | 28 |
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `NetHack` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/NetHack.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/NetHack.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:46:29Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:20Z._
