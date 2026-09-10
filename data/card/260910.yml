@@ -2,20 +2,20 @@ about:
   description: "Official NetHack Git Repository"
   license: NOASSERTION
   homepage: 
-  head: 2d3aa59
+  head: fc75a55
   archived: false
   latestVersion: "NetHack-5.0.0_Released"
   latestRelease: "NetHack-5.0.0_Released"
   latestPrerelease: "NetHack-3.7.0_WIP-2020-02-14"
-  collectedAt: 2026-09-10T02:45:51Z
+  collectedAt: 2026-09-10T15:59:45Z
 timeline:
   created: 2015-12-08
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-05-02
   lastRelease: 2026-05-02
   lastPrerelease: 2020-02-14
 popularity:
-  star: 3901
+  star: 3902
   watcher: 105
   fork: 618
   release: 8
@@ -23,7 +23,7 @@ popularity:
   pullRequest: 923
   issue: 748
 language:
-  C: 14229024
+  C: 14229186
   Lua: 703170
   C++: 641854
   Perl: 85812
@@ -38,70 +38,70 @@ language:
   Max: 1167
   sed: 799
   GAP: 712
-totalBytes: 15854956
+totalBytes: 15855118
 recent:
   last30d:
     since: 2026-08-11
     release: 0
     mergedPR: 5
     openPR: 7
-    closedIssue: 2
-    openIssue: 4
-    commit: 78
+    closedIssue: 3
+    openIssue: 3
+    commit: 81
   last60d:
     since: 2026-07-12
     release: 0
     mergedPR: 17
     openPR: 9
-    closedIssue: 7
-    openIssue: 6
-    commit: 137
+    closedIssue: 8
+    openIssue: 5
+    commit: 140
   last90d:
     since: 2026-06-12
     release: 0
     mergedPR: 47
     openPR: 15
-    closedIssue: 12
-    openIssue: 14
-    commit: 208
+    closedIssue: 13
+    openIssue: 13
+    commit: 211
   last180d:
     since: 2026-03-14
     release: 1
     mergedPR: 84
     openPR: 16
-    closedIssue: 40
-    openIssue: 20
-    commit: 954
+    closedIssue: 41
+    openIssue: 19
+    commit: 957
   last360d:
     since: 2025-09-15
     release: 1
     mergedPR: 88
     openPR: 21
-    closedIssue: 67
-    openIssue: 23
-    commit: 1152
+    closedIssue: 68
+    openIssue: 22
+    commit: 1155
   last720d:
     since: 2024-09-20
     release: 1
     mergedPR: 119
     openPR: 26
-    closedIssue: 153
-    openIssue: 34
-    commit: 2087
+    closedIssue: 154
+    openIssue: 33
+    commit: 2090
 total:
   release: 8
   mergedPR: 254
   openPR: 48
-  closedIssue: 649
-  openIssue: 99
-  commit: 19261
+  closedIssue: 650
+  openIssue: 98
+  commit: 19264
 ---
 path: /home/runner/.x-repo/github.com/NetHack/NetHack
-collectedAt: 2026-09-10T02:46:24Z
+collectedAt: 2026-09-10T16:00:15Z
 loc:
   C:
-    code: 292834
-    comments: 52180
+    code: 292836
+    comments: 52182
     blanks: 35655
     files: 305
   CHeader:
@@ -210,8 +210,8 @@ loc:
     blanks: 4281
     files: 73
 total:
-  code: 371680
-  comments: 118470
+  code: 371682
+  comments: 118472
   blanks: 49601
   files: 856
 ---
