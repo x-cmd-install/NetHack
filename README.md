@@ -12,33 +12,7 @@ Official NetHack Git Repository
 x install NetHack
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/NetHack/NetHack>
-- **License**: NOASSERTION
-
-## Release
-
-- **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-09-10
-
-## Popularity
-
-- **Stars**: 3,902 · **Forks**: 618 · **Open issues**: 748 · **Contributors**: 75
-
-## Totals (cumulative)
-
-- **Releases**: 8 · **Merged PRs**: 254 · **Open PRs**: 48 · **Closed issues**: 650 · **Open issues**: 98 · **Commits**: 19264
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 5 | 7 | 3 | 3 | 81 |
-| 90d | 2026-06-12 | 0 | 47 | 15 | 13 | 13 | 211 |
-| 360d | 2025-09-15 | 1 | 88 | 21 | 68 | 22 | 1155 |
-
-## Code size
+## Code insight
 
 Total: **371,682** lines of code across **694** files in the top 5 languages.
 
@@ -60,6 +34,35 @@ Lowest-scoring checks:
 - **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Source
+
+- **Upstream**: <https://github.com/NetHack/NetHack>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 3,902 · **Forks**: 619 · **Open issues**: 748 · **Contributors**: 75
+
+## Totals (cumulative)
+
+- **Releases**: 8 · **Merged PRs**: 254 · **Open PRs**: 47 · **Closed issues**: 650 · **Open issues**: 98 · **Commits**: 19265
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 5 | 6 | 3 | 3 | 82 |
+| last60d | 2026-07-13 | 0 | 17 | 8 | 8 | 5 | 141 |
+| 90d | 2026-06-13 | 0 | 38 | 14 | 13 | 13 | 212 |
+| last180d | 2026-03-15 | 1 | 84 | 15 | 41 | 19 | 958 |
+| 360d | 2025-09-16 | 1 | 88 | 20 | 68 | 22 | 1156 |
+| last720d | 2024-09-21 | 1 | 119 | 25 | 154 | 33 | 2088 |
+
 ## Improve this data
 
 Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `NetHack` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -69,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:44Z._

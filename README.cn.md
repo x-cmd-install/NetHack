@@ -12,33 +12,7 @@ Official NetHack Git Repository
 x install NetHack
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/NetHack/NetHack>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `NetHack-5.0.0_Released` (2026-05-02)
-- **最近提交**: 2026-09-10
-
-## 流行度
-
-- **Star**: 3,902 · **Fork**: 618 · **开放 issue**: 748 · **贡献者**: 75
-
-## 累计统计
-
-- **发布数**: 8 · **已合并 PR**: 254 · **开放 PR**: 48 · **已关闭 issue**: 650 · **开放 issue**: 98 · **提交数**: 19264
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 5 | 7 | 3 | 3 | 81 |
-| 90d | 2026-06-12 | 0 | 47 | 15 | 13 | 13 | 211 |
-| 360d | 2025-09-15 | 1 | 88 | 21 | 68 | 22 | 1155 |
-
-## 代码规模
+## 代码洞察
 
 合计: **371,682** 行代码（覆盖前 5 种语言、共 **694** 个文件）。
 
@@ -60,6 +34,35 @@ x install NetHack
 - **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/NetHack/NetHack>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `NetHack-5.0.0_Released` (2026-05-02)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 3,902 · **Fork**: 619 · **开放 issue**: 748 · **贡献者**: 75
+
+## 累计统计
+
+- **发布数**: 8 · **已合并 PR**: 254 · **开放 PR**: 47 · **已关闭 issue**: 650 · **开放 issue**: 98 · **提交数**: 19265
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 5 | 6 | 3 | 3 | 82 |
+| last60d | 2026-07-13 | 0 | 17 | 8 | 8 | 5 | 141 |
+| 90d | 2026-06-13 | 0 | 38 | 14 | 13 | 13 | 212 |
+| last180d | 2026-03-15 | 1 | 84 | 15 | 41 | 19 | 958 |
+| 360d | 2025-09-16 | 1 | 88 | 20 | 68 | 22 | 1156 |
+| last720d | 2024-09-21 | 1 | 119 | 25 | 154 | 33 | 2088 |
+
 ## 改进这些数据
 
 NetHack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `NetHack` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -69,4 +72,4 @@ NetHack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:20Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:15:45Z._
