@@ -7,7 +7,7 @@ about:
   latestVersion: "NetHack-5.0.0_Released"
   latestRelease: "NetHack-5.0.0_Released"
   latestPrerelease: "NetHack-3.7.0_WIP-2020-02-14"
-  collectedAt: 2026-09-11T00:15:15Z
+  collectedAt: 2026-09-11T02:38:34Z
 timeline:
   created: 2015-12-08
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 619
   release: 8
   contributor: 75
-  pullRequest: 923
+  pullRequest: 924
   issue: 748
 language:
   C: 14229186
@@ -44,7 +44,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 5
-    openPR: 6
+    openPR: 7
     closedIssue: 3
     openIssue: 3
     commit: 82
@@ -52,7 +52,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 17
-    openPR: 8
+    openPR: 9
     closedIssue: 8
     openIssue: 5
     commit: 141
@@ -60,7 +60,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 38
-    openPR: 14
+    openPR: 15
     closedIssue: 13
     openIssue: 13
     commit: 212
@@ -68,7 +68,7 @@ recent:
     since: 2026-03-15
     release: 1
     mergedPR: 84
-    openPR: 15
+    openPR: 16
     closedIssue: 41
     openIssue: 19
     commit: 958
@@ -76,7 +76,7 @@ recent:
     since: 2025-09-16
     release: 1
     mergedPR: 88
-    openPR: 20
+    openPR: 21
     closedIssue: 68
     openIssue: 22
     commit: 1156
@@ -84,20 +84,20 @@ recent:
     since: 2024-09-21
     release: 1
     mergedPR: 119
-    openPR: 25
+    openPR: 26
     closedIssue: 154
     openIssue: 33
     commit: 2088
 total:
   release: 8
   mergedPR: 254
-  openPR: 47
+  openPR: 48
   closedIssue: 650
   openIssue: 98
   commit: 19265
 ---
 path: /home/runner/.x-repo/github.com/NetHack/NetHack
-collectedAt: 2026-09-11T00:15:41Z
+collectedAt: 2026-09-11T02:38:59Z
 loc:
   C:
     code: 292836
