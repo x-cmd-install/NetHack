@@ -14,11 +14,11 @@ x install NetHack
 
 ## Code insight
 
-Total: **371,702** lines of code across **694** files in the top 5 languages.
+Total: **371,704** lines of code across **694** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 292,839 | 52,183 | 35,655 | 305 |
+| C | 292,841 | 52,184 | 35,655 | 305 |
 | CHeader | 33,172 | 8,099 | 4,274 | 219 |
 | Lua | 15,813 | 2,372 | 1,442 | 141 |
 | Cpp | 14,008 | 2,785 | 1,947 | 28 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 3,911 · **Forks**: 623 · **Open issues**: 750 · **Contributors**: 75
+- **Stars**: 3,913 · **Forks**: 624 · **Open issues**: 750 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 254 · **Open PRs**: 46 · **Closed issues**: 650 · **Open issues**: 100 · **Commits**: 19268
+- **Releases**: 8 · **Merged PRs**: 255 · **Open PRs**: 45 · **Closed issues**: 650 · **Open issues**: 100 · **Commits**: 19269
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 4 | 4 | 3 | 4 | 33 |
-| last60d | 2026-07-19 | 0 | 17 | 7 | 6 | 7 | 138 |
-| 90d | 2026-06-19 | 0 | 33 | 12 | 13 | 15 | 189 |
-| last180d | 2026-03-21 | 1 | 84 | 14 | 41 | 21 | 926 |
-| 360d | 2025-09-22 | 1 | 88 | 19 | 66 | 24 | 1156 |
-| last720d | 2024-09-27 | 1 | 118 | 24 | 152 | 35 | 2077 |
+| 30d | 2026-08-19 | 0 | 5 | 3 | 3 | 4 | 33 |
+| last60d | 2026-07-20 | 0 | 18 | 6 | 6 | 7 | 138 |
+| 90d | 2026-06-20 | 0 | 34 | 11 | 13 | 15 | 189 |
+| last180d | 2026-03-22 | 1 | 85 | 13 | 41 | 21 | 926 |
+| 360d | 2025-09-23 | 1 | 89 | 18 | 66 | 24 | 1156 |
+| last720d | 2024-09-28 | 1 | 118 | 23 | 152 | 35 | 2074 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T03:03:20Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T02:51:34Z._
