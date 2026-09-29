@@ -31,8 +31,8 @@ Overall score: **3.1 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,927 · **Forks**: 632 · **Open issues**: 752 · **Contributors**: 75
+- **Stars**: 3,929 · **Forks**: 632 · **Open issues**: 752 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 255 · **Open PRs**: 49 · **Closed issues**: 651 · **Open issues**: 101 · **Commits**: 19285
+- **Releases**: 8 · **Merged PRs**: 255 · **Open PRs**: 52 · **Closed issues**: 651 · **Open issues**: 101 · **Commits**: 19285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 2 | 6 | 3 | 4 | 25 |
-| last60d | 2026-07-30 | 0 | 9 | 8 | 6 | 7 | 129 |
-| 90d | 2026-06-30 | 0 | 29 | 14 | 11 | 13 | 173 |
-| last180d | 2026-04-01 | 1 | 85 | 17 | 41 | 22 | 888 |
-| 360d | 2025-10-03 | 1 | 88 | 22 | 65 | 25 | 1155 |
-| last720d | 2024-10-08 | 1 | 118 | 27 | 153 | 36 | 2072 |
+| 30d | 2026-08-30 | 0 | 2 | 9 | 3 | 4 | 25 |
+| last60d | 2026-07-31 | 0 | 9 | 11 | 5 | 7 | 129 |
+| 90d | 2026-07-01 | 0 | 29 | 17 | 11 | 13 | 173 |
+| last180d | 2026-04-02 | 1 | 85 | 20 | 41 | 22 | 888 |
+| 360d | 2025-10-04 | 1 | 88 | 25 | 65 | 25 | 1155 |
+| last720d | 2024-10-09 | 1 | 118 | 30 | 153 | 36 | 2070 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T03:13:41Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T03:51:23Z._
