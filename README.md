@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
-- **Stars**: 3,929 · **Forks**: 632 · **Open issues**: 752 · **Contributors**: 75
+- **Stars**: 3,929 · **Forks**: 634 · **Open issues**: 752 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 255 · **Open PRs**: 52 · **Closed issues**: 651 · **Open issues**: 101 · **Commits**: 19285
+- **Releases**: 8 · **Merged PRs**: 255 · **Open PRs**: 52 · **Closed issues**: 652 · **Open issues**: 100 · **Commits**: 19286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 2 | 9 | 3 | 4 | 25 |
-| last60d | 2026-07-31 | 0 | 9 | 11 | 5 | 7 | 129 |
-| 90d | 2026-07-01 | 0 | 29 | 17 | 11 | 13 | 173 |
-| last180d | 2026-04-02 | 1 | 85 | 20 | 41 | 22 | 888 |
-| 360d | 2025-10-04 | 1 | 88 | 25 | 65 | 25 | 1155 |
-| last720d | 2024-10-09 | 1 | 118 | 30 | 153 | 36 | 2070 |
+| 30d | 2026-08-31 | 0 | 1 | 9 | 4 | 3 | 26 |
+| last60d | 2026-08-01 | 0 | 9 | 11 | 6 | 6 | 130 |
+| 90d | 2026-07-02 | 0 | 29 | 17 | 12 | 12 | 174 |
+| last180d | 2026-04-03 | 1 | 85 | 20 | 42 | 21 | 889 |
+| 360d | 2025-10-05 | 1 | 88 | 25 | 66 | 24 | 1156 |
+| last720d | 2024-10-10 | 1 | 117 | 30 | 154 | 35 | 2070 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T03:51:23Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T03:40:03Z._
