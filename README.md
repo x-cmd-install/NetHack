@@ -30,9 +30,9 @@ Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 3,932 · **Forks**: 635 · **Open issues**: 753 · **Contributors**: 77
+- **Stars**: 3,933 · **Forks**: 635 · **Open issues**: 753 · **Contributors**: 77
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 257 · **Open PRs**: 50 · **Closed issues**: 652 · **Open issues**: 101 · **Commits**: 19755
+- **Releases**: 8 · **Merged PRs**: 257 · **Open PRs**: 51 · **Closed issues**: 653 · **Open issues**: 100 · **Commits**: 19757
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 2 | 9 | 3 | 4 | 63 |
-| last60d | 2026-08-06 | 0 | 7 | 10 | 5 | 7 | 174 |
-| 90d | 2026-07-07 | 0 | 25 | 15 | 10 | 10 | 301 |
-| last180d | 2026-04-08 | 1 | 87 | 18 | 41 | 22 | 1314 |
-| 360d | 2025-10-10 | 1 | 90 | 23 | 66 | 25 | 1615 |
-| last720d | 2024-10-15 | 1 | 118 | 28 | 154 | 35 | 2526 |
+| 30d | 2026-09-06 | 0 | 2 | 10 | 4 | 3 | 65 |
+| last60d | 2026-08-07 | 0 | 7 | 11 | 6 | 6 | 176 |
+| 90d | 2026-07-08 | 0 | 22 | 16 | 11 | 9 | 303 |
+| last180d | 2026-04-09 | 1 | 87 | 19 | 42 | 21 | 1316 |
+| 360d | 2025-10-11 | 1 | 90 | 24 | 67 | 24 | 1617 |
+| last720d | 2024-10-16 | 1 | 118 | 29 | 155 | 34 | 2528 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T03:41:41Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T04:29:39Z._
