@@ -26,13 +26,13 @@ Total: **415,331** lines of code across **770** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.1 / 10**
+Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/26 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
-- **Stars**: 3,947 · **Forks**: 639 · **Open issues**: 755 · **Contributors**: 77
+- **Stars**: 3,948 · **Forks**: 639 · **Open issues**: 756 · **Contributors**: 77
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 257 · **Open PRs**: 53 · **Closed issues**: 653 · **Open issues**: 102 · **Commits**: 19765
+- **Releases**: 8 · **Merged PRs**: 257 · **Open PRs**: 53 · **Closed issues**: 653 · **Open issues**: 103 · **Commits**: 19766
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 2 | 10 | 3 | 4 | 72 |
-| last60d | 2026-08-13 | 0 | 7 | 13 | 6 | 7 | 139 |
-| 90d | 2026-07-14 | 0 | 19 | 15 | 10 | 9 | 310 |
-| last180d | 2026-04-15 | 1 | 87 | 21 | 41 | 22 | 1316 |
-| 360d | 2025-10-17 | 1 | 90 | 26 | 65 | 26 | 1624 |
-| last720d | 2024-10-22 | 1 | 118 | 31 | 153 | 35 | 2527 |
+| 30d | 2026-09-13 | 0 | 2 | 10 | 2 | 5 | 73 |
+| last60d | 2026-08-14 | 0 | 7 | 13 | 6 | 8 | 140 |
+| 90d | 2026-07-15 | 0 | 19 | 15 | 10 | 10 | 311 |
+| last180d | 2026-04-16 | 1 | 87 | 21 | 41 | 23 | 1317 |
+| 360d | 2025-10-18 | 1 | 90 | 26 | 65 | 27 | 1625 |
+| last720d | 2024-10-23 | 1 | 117 | 31 | 153 | 35 | 2528 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T03:58:02Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T05:07:45Z._

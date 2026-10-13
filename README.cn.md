@@ -26,13 +26,13 @@ x install NetHack
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.1 / 10**
+总评分: **3 / 10**
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/26 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -42,26 +42,26 @@ x install NetHack
 ## 发布
 
 - **最新版本**: `NetHack-5.0.0_Released` (2026-05-02)
-- **最近提交**: 2026-10-11
+- **最近提交**: 2026-10-12
 
 ## 流行度
 
-- **Star**: 3,947 · **Fork**: 639 · **开放 issue**: 755 · **贡献者**: 77
+- **Star**: 3,948 · **Fork**: 639 · **开放 issue**: 756 · **贡献者**: 77
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 257 · **开放 PR**: 53 · **已关闭 issue**: 653 · **开放 issue**: 102 · **提交数**: 19765
+- **发布数**: 8 · **已合并 PR**: 257 · **开放 PR**: 53 · **已关闭 issue**: 653 · **开放 issue**: 103 · **提交数**: 19766
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 2 | 10 | 3 | 4 | 72 |
-| last60d | 2026-08-13 | 0 | 7 | 13 | 6 | 7 | 139 |
-| 90d | 2026-07-14 | 0 | 19 | 15 | 10 | 9 | 310 |
-| last180d | 2026-04-15 | 1 | 87 | 21 | 41 | 22 | 1316 |
-| 360d | 2025-10-17 | 1 | 90 | 26 | 65 | 26 | 1624 |
-| last720d | 2024-10-22 | 1 | 118 | 31 | 153 | 35 | 2527 |
+| 30d | 2026-09-13 | 0 | 2 | 10 | 2 | 5 | 73 |
+| last60d | 2026-08-14 | 0 | 7 | 13 | 6 | 8 | 140 |
+| 90d | 2026-07-15 | 0 | 19 | 15 | 10 | 10 | 311 |
+| last180d | 2026-04-16 | 1 | 87 | 21 | 41 | 23 | 1317 |
+| 360d | 2025-10-18 | 1 | 90 | 26 | 65 | 27 | 1625 |
+| last720d | 2024-10-23 | 1 | 117 | 31 | 153 | 35 | 2528 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ NetHack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T03:58:03Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T05:07:46Z._
