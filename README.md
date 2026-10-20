@@ -30,9 +30,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (0/10) — Found 2/26 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,954 · **Forks**: 638 · **Open issues**: 759 · **Contributors**: 77
+- **Stars**: 3,956 · **Forks**: 638 · **Open issues**: 759 · **Contributors**: 77
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 1 | 7 | 3 | 5 | 81 |
-| last60d | 2026-08-20 | 0 | 6 | 11 | 7 | 9 | 128 |
-| 90d | 2026-07-21 | 0 | 19 | 13 | 10 | 12 | 264 |
-| last180d | 2026-04-22 | 1 | 86 | 19 | 41 | 25 | 1274 |
-| 360d | 2025-10-24 | 1 | 90 | 24 | 66 | 29 | 1620 |
-| last720d | 2024-10-29 | 1 | 115 | 29 | 152 | 37 | 2540 |
+| 30d | 2026-09-20 | 0 | 1 | 7 | 3 | 5 | 81 |
+| last60d | 2026-08-21 | 0 | 5 | 11 | 7 | 9 | 128 |
+| 90d | 2026-07-22 | 0 | 16 | 13 | 10 | 12 | 264 |
+| last180d | 2026-04-23 | 1 | 86 | 19 | 41 | 25 | 1274 |
+| 360d | 2025-10-25 | 1 | 90 | 24 | 66 | 29 | 1620 |
+| last720d | 2024-10-30 | 1 | 115 | 29 | 152 | 37 | 2539 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T02:56:34Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T03:06:18Z._

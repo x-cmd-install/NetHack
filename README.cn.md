@@ -30,9 +30,9 @@ x install NetHack
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (0/10) — Found 2/26 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -46,7 +46,7 @@ x install NetHack
 
 ## 流行度
 
-- **Star**: 3,954 · **Fork**: 638 · **开放 issue**: 759 · **贡献者**: 77
+- **Star**: 3,956 · **Fork**: 638 · **开放 issue**: 759 · **贡献者**: 77
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install NetHack
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 1 | 7 | 3 | 5 | 81 |
-| last60d | 2026-08-20 | 0 | 6 | 11 | 7 | 9 | 128 |
-| 90d | 2026-07-21 | 0 | 19 | 13 | 10 | 12 | 264 |
-| last180d | 2026-04-22 | 1 | 86 | 19 | 41 | 25 | 1274 |
-| 360d | 2025-10-24 | 1 | 90 | 24 | 66 | 29 | 1620 |
-| last720d | 2024-10-29 | 1 | 115 | 29 | 152 | 37 | 2540 |
+| 30d | 2026-09-20 | 0 | 1 | 7 | 3 | 5 | 81 |
+| last60d | 2026-08-21 | 0 | 5 | 11 | 7 | 9 | 128 |
+| 90d | 2026-07-22 | 0 | 16 | 13 | 10 | 12 | 264 |
+| last180d | 2026-04-23 | 1 | 86 | 19 | 41 | 25 | 1274 |
+| 360d | 2025-10-25 | 1 | 90 | 24 | 66 | 29 | 1620 |
+| last720d | 2024-10-30 | 1 | 115 | 29 | 152 | 37 | 2539 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ NetHack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T02:56:35Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T03:06:19Z._
