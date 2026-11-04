@@ -14,14 +14,14 @@ x install NetHack
 
 ## Code insight
 
-Total: **415,460** lines of code across **770** files in the top 5 languages.
+Total: **415,609** lines of code across **770** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 317,468 | 57,481 | 39,680 | 346 |
-| CHeader | 36,205 | 9,879 | 5,754 | 252 |
+| C | 317,509 | 57,501 | 39,688 | 346 |
+| CHeader | 36,206 | 9,879 | 5,754 | 252 |
 | Lua | 15,916 | 2,371 | 1,449 | 141 |
-| Cpp | 14,025 | 2,805 | 1,949 | 28 |
+| Cpp | 14,025 | 2,804 | 1,949 | 28 |
 | Html | 12,372 | 5 | 1,224 | 3 |
 
 ## OpenSSF Scorecard
@@ -30,9 +30,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 257 · **Open PRs**: 68 · **Closed issues**: 657 · **Open issues**: 109 · **Commits**: 19815
+- **Releases**: 8 · **Merged PRs**: 257 · **Open PRs**: 67 · **Closed issues**: 659 · **Open issues**: 107 · **Commits**: 19842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 18 | 4 | 9 | 54 |
-| last60d | 2026-09-04 | 0 | 2 | 27 | 8 | 12 | 134 |
-| 90d | 2026-08-05 | 0 | 9 | 28 | 10 | 15 | 249 |
-| last180d | 2026-05-07 | 0 | 81 | 36 | 35 | 27 | 988 |
-| 360d | 2025-11-08 | 1 | 89 | 41 | 66 | 33 | 1635 |
-| last720d | 2024-11-13 | 1 | 106 | 45 | 148 | 40 | 2531 |
+| 30d | 2026-10-05 | 0 | 0 | 18 | 5 | 8 | 73 |
+| last60d | 2026-09-05 | 0 | 2 | 26 | 10 | 10 | 153 |
+| 90d | 2026-08-06 | 0 | 7 | 27 | 12 | 13 | 268 |
+| last180d | 2026-05-08 | 0 | 81 | 35 | 36 | 25 | 1007 |
+| 360d | 2025-11-09 | 1 | 89 | 40 | 68 | 31 | 1654 |
+| last720d | 2024-11-14 | 1 | 106 | 44 | 150 | 38 | 2549 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:01:29Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:32:59Z._
