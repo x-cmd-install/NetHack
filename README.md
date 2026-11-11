@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,983 · **Forks**: 648 · **Open issues**: 766 · **Contributors**: 77
+- **Stars**: 3,984 · **Forks**: 650 · **Open issues**: 766 · **Contributors**: 77
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 19 | 7 | 4 | 87 |
-| last60d | 2026-09-11 | 0 | 2 | 25 | 11 | 7 | 167 |
-| 90d | 2026-08-12 | 0 | 7 | 28 | 14 | 10 | 251 |
-| last180d | 2026-05-14 | 0 | 78 | 36 | 36 | 23 | 933 |
-| 360d | 2025-11-15 | 1 | 89 | 41 | 69 | 29 | 1662 |
-| last720d | 2024-11-20 | 1 | 105 | 45 | 150 | 36 | 2571 |
+| 30d | 2026-10-12 | 0 | 0 | 19 | 7 | 4 | 87 |
+| last60d | 2026-09-12 | 0 | 2 | 25 | 11 | 7 | 167 |
+| 90d | 2026-08-13 | 0 | 7 | 28 | 14 | 10 | 251 |
+| last180d | 2026-05-15 | 0 | 78 | 36 | 35 | 23 | 933 |
+| 360d | 2025-11-16 | 1 | 89 | 41 | 69 | 29 | 1662 |
+| last720d | 2024-11-21 | 1 | 105 | 45 | 149 | 36 | 2570 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T05:43:17Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T04:20:59Z._
