@@ -14,12 +14,12 @@ x install NetHack
 
 ## Code insight
 
-Total: **415,954** lines of code across **770** files in the top 5 languages.
+Total: **416,113** lines of code across **770** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 317,721 | 57,613 | 39,781 | 346 |
-| CHeader | 36,240 | 9,943 | 5,757 | 252 |
+| C | 317,868 | 57,647 | 39,795 | 346 |
+| CHeader | 36,252 | 9,944 | 5,759 | 252 |
 | Lua | 15,936 | 2,399 | 1,454 | 141 |
 | Cpp | 14,025 | 2,826 | 1,949 | 28 |
 | Html | 12,372 | 5 | 1,224 | 3 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `NetHack-5.0.0_Released` (2026-05-02)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-14
 
 ## Popularity
 
-- **Stars**: 3,988 · **Forks**: 653 · **Open issues**: 768 · **Contributors**: 78
+- **Stars**: 3,989 · **Forks**: 654 · **Open issues**: 769 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 258 · **Open PRs**: 68 · **Closed issues**: 661 · **Open issues**: 107 · **Commits**: 19880
+- **Releases**: 8 · **Merged PRs**: 259 · **Open PRs**: 68 · **Closed issues**: 663 · **Open issues**: 106 · **Commits**: 19894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 1 | 18 | 5 | 4 | 95 |
-| last60d | 2026-09-15 | 0 | 2 | 25 | 10 | 9 | 175 |
-| 90d | 2026-08-16 | 0 | 8 | 28 | 14 | 11 | 259 |
-| last180d | 2026-05-18 | 0 | 79 | 36 | 34 | 25 | 941 |
-| 360d | 2025-11-19 | 1 | 90 | 41 | 69 | 31 | 1670 |
-| last720d | 2024-11-24 | 1 | 105 | 45 | 147 | 38 | 2577 |
+| 30d | 2026-10-16 | 0 | 1 | 19 | 6 | 4 | 87 |
+| last60d | 2026-09-16 | 0 | 3 | 25 | 11 | 8 | 179 |
+| 90d | 2026-08-17 | 0 | 9 | 28 | 16 | 10 | 232 |
+| last180d | 2026-05-19 | 0 | 80 | 36 | 35 | 24 | 845 |
+| 360d | 2025-11-20 | 1 | 91 | 41 | 70 | 30 | 1675 |
+| last720d | 2024-11-25 | 1 | 106 | 45 | 149 | 37 | 2591 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for NetHack lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T04:40:18Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T04:29:38Z._
